@@ -33,3 +33,4 @@
 
 # excludes build dirs of CMake.
 build/
+.vscode/
